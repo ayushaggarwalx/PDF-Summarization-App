@@ -39,6 +39,9 @@ To ensure the functionality and performance of the Streamlit application, we wil
 [Application.webm](https://github.com/user-attachments/assets/224dd9d7-3399-4263-ace9-cb8b1913c118)
 
 
+## Project Link
+[⭐Try me!⭐](https://www.sticker.com/picture_library/product_images/stock-message/72460_try-me-black-stickers-and-labels.png)
+
 ## Acknowledgements
 
  - [MBZUAI/LaMini-Flan-T5-248M](https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M)
