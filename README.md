@@ -8,8 +8,6 @@ The PDF Summarization App is a user-friendly web application built using the Str
 
 ## Lamini Flan T5: A Powerful Language Model 
 
-![Logo](https://miro.medium.com/v2/resize:fit:908/0*GWUPZyMXUv3HjD03.png)
-
 <p align="center" width="100%">
     <a><img src="https://miro.medium.com/v2/resize:fit:908/0*GWUPZyMXUv3HjD03.png" alt="Title" style="width: 20%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
