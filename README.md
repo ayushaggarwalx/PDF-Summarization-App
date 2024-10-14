@@ -6,7 +6,9 @@
 
 The PDF Summarization App is a user-friendly web application built using the Streamlit framework and Hugging Face Transformers library. This app allows users to upload PDF files and generate concise summaries of their content using using the Lamini Flan T5 language model. This powerful open-source model has 248 million parameters and is fine-tuned on the T5 architecture by Google.
 
-## Lamini Flan T5: A Powerful Language Model ![Logo](https://miro.medium.com/v2/resize:fit:908/0*GWUPZyMXUv3HjD03.png)
+## Lamini Flan T5: A Powerful Language Model 
+
+![Logo](https://miro.medium.com/v2/resize:fit:908/0*GWUPZyMXUv3HjD03.png)
 
 
 Lamini Flan T5 is an underrated language model that was released by Google a few years ago. With 248 million parameters, it is smaller compared to other large-Scale language models available today. Despite its size, Lamini Flan T5 is capable of generating high-quality summaries and text generation. We will be utilizing the summarization pipeline of this model in our Streamlit application.
