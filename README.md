@@ -1,4 +1,7 @@
 
+![How-to-summarize-and-extract-text-from-PDF-with-AI-](https://github.com/user-attachments/assets/d20e8a2f-d46b-4c7f-8377-a690ea3868ae)
+
+
 # PDF Summarization App
 
 The PDF Summarization App is a user-friendly web application built using the Streamlit framework and Hugging Face Transformers library. This app allows users to upload PDF files and generate concise summaries of their content using using the Lamini Flan T5 language model. This powerful open-source model has 248 million parameters and is fine-tuned on the T5 architecture by Google.
