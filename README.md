@@ -40,7 +40,7 @@ To ensure the functionality and performance of the Streamlit application, we wil
 
 
 ## Project Link
-[⭐Try me!⭐](https://www.sticker.com/picture_library/product_images/stock-message/72460_try-me-black-stickers-and-labels.png)
+(⭐Try me!⭐)(https://pdfsummarizationapp.streamlit.app/)
 
 ## Acknowledgements
 
