@@ -11,6 +11,19 @@ The PDF Summarization App is a user-friendly web application built using the Str
 ![Logo](https://miro.medium.com/v2/resize:fit:908/0*GWUPZyMXUv3HjD03.png)
 
 
+<p align="center" width="100%">
+    <a><img src="images/LaMini-LM-solo.png" alt="Title" style="width: 20%; min-width: 300px; display: block; margin: auto;"></a>
+</p>
+
+# LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
+<p align="center"> <a href="https://twitter.com/WuMinghao_nlp" target="_blank">Minghao Wu</a>, <a href="https://twitter.com/MacAbdul9" target="_blank">Abdul Waheed</a>, <a href="https://chiyuzhang94.github.io/" target="_blank">Chiyu Zhang</a>,  <a href="https://mageed.arts.ubc.ca/" target="_blank">Muhammad Abdul-Mageed</a>, <a href="https://afaji.github.io/" target="_blank">Alham Fikri Aji</a></p>
+<p align="center" float="left">
+  <img src="images/MBZUAI-logo.png" height="40" />
+  <img src="images/ubc_logo.png" height="40" />
+  <img src="images/monash_logo.png" height="40" />
+</p>
+
+
 Lamini Flan T5 is an underrated language model that was released by Google a few years ago. With 248 million parameters, it is smaller compared to other large-Scale language models available today. Despite its size, Lamini Flan T5 is capable of generating high-quality summaries and text generation. We will be utilizing the summarization pipeline of this model in our Streamlit application.
 
 ## Setting Up the Environment
